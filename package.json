@@ -1,0 +1,26 @@
+{
+  "name": "xiumu-cli",
+  "version": "1.0.0",
+  "description": "脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiumubai/xiumu-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiumubai/xiumu-cli/issues"
+  },
+  "homepage": "https://github.com/xiumubai/xiumu-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0",
+    "ora": "^6.0.1",
+    "simple-git": "^2.48.0"
+  }
+}
