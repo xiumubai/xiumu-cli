@@ -28,6 +28,7 @@ class Init {
             }
           ])
           .then((answer) => {
+            console.log(answer);
             const spinner = ora('downloading template ...');
             spinner.start();
             const template = answer.template === 'Vue' ? 'vue-template' : 'react-template';
