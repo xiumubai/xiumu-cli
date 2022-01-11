@@ -1,5 +1,5 @@
 {
-  "name": "xiumu-cli",
+  "name": "@xiumu/cli",
   "version": "1.0.0",
   "description": "脚手架工具",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/xiumubai/xiumu-cli.git"
   },
-  "author": "",
+  "author": "xiumubai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xiumubai/xiumu-cli/issues"
@@ -25,7 +25,6 @@
     "download-git-repo": "^3.0.2",
     "ini": "^2.0.0",
     "inquirer": "^8.2.0",
-    "ora": "^6.0.1",
     "simple-git": "^2.48.0"
   }
 }
